@@ -1,7 +1,6 @@
 import java.util.*;
-import java.util.concurrent.CopyOnWriteArrayList;
 
-public class maximumSubArraySum {
+public class ValidParenthesis {
 
     public static void main(String[] args) {
         String longest = "([])";
